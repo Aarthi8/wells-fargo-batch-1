@@ -1,4 +1,4 @@
-report.html
+test-report.html
 target/
 *.log
 **/*.jar
