@@ -7,3 +7,5 @@ before del merge
 tags demo in detached branch
 tag-demo newly created
 2. make change in master fore rebase
+make change in newly created rebase branch
+3.change in rebase commit
