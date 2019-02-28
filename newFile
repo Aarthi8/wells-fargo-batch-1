@@ -5,3 +5,4 @@ master :: 2019 conflic merge with loca-branch
 local-branch :: for conflict merge
 before del merge
 tags demo in detached branch
+tag-demo newly created
