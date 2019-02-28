@@ -3,3 +3,5 @@ master:: 1418
 master:: 1418 merge wit local-branch
 master :: 2019 conflic merge with loca-branch
 local-branch :: for conflict merge
+before del merge
+tags demo in detached branch
