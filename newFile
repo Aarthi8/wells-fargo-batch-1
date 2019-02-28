@@ -6,3 +6,4 @@ local-branch :: for conflict merge
 before del merge
 tags demo in detached branch
 tag-demo newly created
+2. make change in master fore rebase
